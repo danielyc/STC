@@ -1,0 +1,2 @@
+# STC
+Smart trash can
